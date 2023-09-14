@@ -19,9 +19,11 @@
           {{ item.desc }}
         </p>
         {% endif %}
-        {% if item.thumbnail %}
-        <img src= {{item.thumbnail}}> </img> 
+
+        {% if item.thumbnail != false %}
+          <img src= {{item.thumbnail}}> </img> 
         {% endif %}
+        
       </a>
     </li>
 

@@ -12,14 +12,26 @@ navbar_entries:
     url: https://www.linkedin.com/in/duongle90/
 
 project_entries:
-  - title: Project 1
-    url: first-post
-    # thumbnail: logo_1.png
+  - title: Motion Planner for On-road Autonomous Vehicle
+    url: gust-mp
+    thumbnail: thumbnails/hsl-rrts.png
 
-  - title: Project 2
-    url: first-post
-    desc: Guiding Sampling-Based Tree Search for Motion Planning with Dynamics via Probabilistic Roadmap Abstractions
+  - title: Guided Motion Planner with Physic
+    url: gust-mp
+    thumbnail: thumbnails/gust-mp.jpg
+    # desc: Guided Motion Planner
 
+  - title: Motion Planner for Multiple Robot
+    url: gust-mp
+    thumbnail: thumbnails/coord-mp.jpg
+
+  - title: Task and Motion Planner
+    url: gust-mp
+    thumbnail: thumbnails/task-mp.jpg
+
+  - title: Waypoint Follow
+    url: gust-mp
+    thumbnail: thumbnails/wp-mp.jpg
 
   # - title: Project 222
   #   url: overview-post
