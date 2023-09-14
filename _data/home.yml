@@ -1,19 +1,22 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  - title: blog
+  - title: Blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: Resume
+    url: ../resume/DuongLe_Resume.pdf
+
+  - title: Linkedin
+    url: https://www.linkedin.com/in/duongle90/
 
 project_entries:
   - title: Project 1
-    url: overview-post
+    url: first-post
     desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
+  - title: Project 222
     url: overview-post
     desc: Projects are shown in card layout
 
@@ -46,7 +49,7 @@ old_project_entries:
     desc: An open source landing website with supporting pages and integrated blog
 
   - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
+    url: https://github.com/abhissnavs/moonwalk
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
   - title: Humangous
@@ -54,17 +57,17 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  # - title: abhinav's homepage
+  #   url: https://www.abhinav.co
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  # - title: twitter
+  #   url: https://twitter.com/abhinav
 
-  - title: github
-    url: https://github.com/abhinavs
+  # - title: github
+  #   url: https://github.com/abhinavs
 
-  - title: feed
-    url: feed.xml
+  # - title: feed
+  #   url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
@@ -84,7 +87,7 @@ misc_entries:
     url: false
     entries:
       - title: on Github
-        url: https://github.com/abhinavs/moonwalk
+        url: https://github.com/abhissnavs/moonwalk
 
       - title: originally built for abhinav's homepage
         url: https://www.abhinav.co
