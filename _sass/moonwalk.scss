@@ -37,6 +37,24 @@ li { margin: 0.4em 0; }
   padding: 4em 2em;
 }
 
+.box {
+  width: 100%;
+}
+
+.row {
+  display: flex;
+}
+
+.column-left {
+  flex: 80%;
+}
+
+.column-right {
+  width: 20%;
+  justify-content: right;
+  align-items: center;
+}
+
 table, th, td {
   width: 100%;
   border: thin solid black;

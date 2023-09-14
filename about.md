@@ -3,6 +3,5 @@ layout: post
 title: About
 ---
 
-This is an example page!
-
-Actually, it has the same layout of a post...
+Hi, I'm Duong Le, an engineer equipped with research skills for challenging problems.
+I have worked in the AV industry since 2018, trying to make AV safer and more reliable.

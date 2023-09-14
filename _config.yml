@@ -1,8 +1,11 @@
-title: Duong Le
+title: 
 author: Duong Le
 url: https://neokites.com 
 description: > # description of the site (multiple lines allowed)
-  neokite.com description
+  Hi, I'm Duong Le, an engineer equipped with research skills for challenging problems.
+  I have worked in the AV industry since 2018, trying to make AV safer and more reliable.
+
+selfie: ./logo_1.png
 
 permalink: /:slug
 
@@ -36,7 +39,7 @@ theme_config:
     title_projects: Portfolio
     title_misc_list: Details
     title_blog: Blog
-    title_old_projects: Old Projects
+    title_old_projects: Research Projects
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
