@@ -13,7 +13,7 @@ navbar_entries:
 
 project_entries:
   - title: Motion Planner for On-road Autonomous Vehicle
-    url: gust-mp
+    url: hsl-mp
     thumbnail: thumbnails/hsl-rrts.png
 
   - title: Guided Motion Planner with Physic
@@ -21,17 +21,19 @@ project_entries:
     thumbnail: thumbnails/gust-mp.jpg
     # desc: Guided Motion Planner
 
-  - title: Motion Planner for Multiple Robot
-    url: gust-mp
-    thumbnail: thumbnails/coord-mp.jpg
-
   - title: Task and Motion Planner
-    url: gust-mp
+    url: task-mp
     thumbnail: thumbnails/task-mp.jpg
 
   - title: Waypoint Follow
-    url: gust-mp
+    url: wp-follow-mp
     thumbnail: thumbnails/wp-mp.jpg
+
+  - title: Motion Planner for Multiple Robot
+    url: multi-mp
+    thumbnail: thumbnails/coord-mp.jpg
+
+
 
   # - title: Project 222
   #   url: overview-post
@@ -103,22 +105,22 @@ misc_entries:
     post_list: true
     url: false
 
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhissnavs/moonwalk
+  # - title: moonwalk on the Internet
+  #   url: false
+  #   entries:
+  #     - title: on Github
+  #       url: https://github.com/abhissnavs/moonwalk
 
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
+  #     - title: originally built for abhinav's homepage
+  #       url: https://www.abhinav.co
 
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
+  #     - title: this list is scalable and can be nested
+  #       url: false
+  #       entries:
+  #         - title: this is nested inside a nested list
+  #           url: false
 
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
+  #         - title: it is easy to use, see _data/home.yml to see how to configure it.
+  #           url: false
 
 
